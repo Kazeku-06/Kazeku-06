@@ -10,7 +10,6 @@ haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>W
 
 ###
 
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kazeku-06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -22,7 +21,6 @@ haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>W
 
 ###
 
----
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
@@ -64,7 +62,6 @@ haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>W
 
 ###
 
----
 
 <div align="center">
     <a href="https://discord.com/users/1070625576290877540">
@@ -81,7 +78,6 @@ haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>W
 
 ###
 
----
 
 <div align="center">
   <a href="https://open.spotify.com/user/Asta">
@@ -93,7 +89,6 @@ haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>W
 
 ###
 
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kazeku-06/Kazeku-06/output/pacman-contribution-graph-dark.svg">
