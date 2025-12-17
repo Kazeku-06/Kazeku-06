@@ -2,13 +2,13 @@
 
 ---
 
-### 🌟 About Me
+###<h2 align="center"> 🌟 About Me</h2>
 
 haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>Web Developer</strong> dan <strong>Mobile Developer</strong> sambil slow living berternak lele  
 
 ---
 
-###
+### 📊 GitHub Stats
 
 
 <div align="center">
