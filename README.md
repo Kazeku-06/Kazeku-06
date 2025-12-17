@@ -2,7 +2,7 @@
 
 ---
 
-###<h2 align="center"> 🌟 About Me</h2>
+### 🌟 About Me
 
 haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>Web Developer</strong> dan <strong>Mobile Developer</strong> sambil slow living berternak lele  
 
@@ -18,7 +18,7 @@ haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>W
 
 ---
 
-###
+### 🔧 Tech Stack
 
 
 <div align="center">
@@ -55,11 +55,28 @@ haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>W
   <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+
 </div>
 
 ---
 
-###
+### 👾 Tools
+
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="35" alt="figma logo"/>
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="35" alt="canva logo"/>
+  <img width="10" />
+
+</div>
+
+
+---
+
+### 🔗 Socials
 
 
 <div align="center">
