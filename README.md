@@ -66,9 +66,9 @@ haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>W
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="35" alt="figma logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="35" alt="canva logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
   <img width="10" />
 
 </div>
