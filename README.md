@@ -4,11 +4,13 @@
 
 ### 🌟 About Me
 
-haloo saya<strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>Web Developer</strong> dan <strong>Mobile Developer</strong> sambil slow living berternak lele  
+haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>Web Developer</strong> dan <strong>Mobile Developer</strong> sambil slow living berternak lele  
 
 ---
 
 ###
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kazeku-06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -16,7 +18,11 @@ haloo saya<strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>We
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kazeku-06&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+---
+
 ###
+
+---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
@@ -54,7 +60,11 @@ haloo saya<strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>We
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
 </div>
 
+---
+
 ###
+
+---
 
 <div align="center">
     <a href="https://discord.com/users/1070625576290877540">
@@ -67,7 +77,11 @@ haloo saya<strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>We
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  /></a>
 </div>
 
+---
+
 ###
+
+---
 
 <div align="center">
   <a href="https://open.spotify.com/user/Asta">
@@ -75,12 +89,18 @@ haloo saya<strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>We
   </a>
 </div>
 
+---
+
 ###
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kazeku-06/Kazeku-06/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kazeku-06/Kazeku-06/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kazeku-06/Kazeku-06/output/pacman-contribution-graph.svg">
 </picture>
+
+---
 
 ###
