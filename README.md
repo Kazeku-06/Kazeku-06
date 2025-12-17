@@ -1,5 +1,13 @@
 <h2 align="center">Hi 👋! My name is nopalll</h2>
 
+---
+
+### 🌟 About Me
+
+haloo saya<strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>Web Developer</strong> dan <strong>Mobile Developer</strong> sambil slow living berternak lele  
+
+---
+
 ###
 
 <div align="center">
@@ -51,9 +59,12 @@
 <div align="center">
     <a href="https://discord.com/users/1070625576290877540">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <a href="mailto:tssytari@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a href="https://www.instagram.com/nhhdky/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+  <a href="https://t.me/ryuuuua">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  /></a>
 </div>
 
 ###
