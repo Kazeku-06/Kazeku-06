@@ -12,7 +12,8 @@ haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>W
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazeku-06&layout=compact&theme=radical&langs_count=20" width="400"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazeku-06&layout=compact&theme=radical&langs_count=20&cache_seconds=1800
+  " width="400"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kazeku-06&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
