@@ -97,7 +97,7 @@ haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>W
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  /></a>
 </div>
 
-<!-- ---
+---
 
 ###
 
@@ -106,7 +106,7 @@ haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>W
   <a href="https://open.spotify.com/user/Asta">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31q5qnhduklc3v3sjstxiemkhufy&unique={true|1|on|yes}" alt="Spotify recently played"  />
   </a>
-</div> -->
+</div>
 
 ---
 
