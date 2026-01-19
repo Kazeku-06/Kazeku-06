@@ -99,7 +99,7 @@ haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>W
 
 ---
 
-<!-- ###
+###
 
 
 <div align="center">
@@ -108,7 +108,7 @@ haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>W
   </a>
 </div>
 
---- -->
+---
 
 ###
 
