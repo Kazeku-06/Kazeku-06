@@ -1,6 +1,5 @@
 <h2 align="center">Hi There! 👋! My name is nopalll</h2>
 
----
 
 ### 🌟 About Me
 
@@ -118,7 +117,3 @@ haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>W
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kazeku-06/Kazeku-06/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kazeku-06/Kazeku-06/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-###
