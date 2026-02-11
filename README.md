@@ -3,11 +3,12 @@
 
 ### 🌟 About Me
 
-haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>Web Developer</strong> dan <strong>Mobile Developer</strong> sambil slow living berternak lele  
+haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>Web Developer</strong> dan <strong>Mobile Developer</strong>dengan vibe coding sambil slow living berternak lele  
 
 ---
 
 ### 📊 GitHub Stats
+
 
 
 <div align="center">
@@ -98,7 +99,7 @@ haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>W
 
 ---
 
-###
+<!-- ###
 
 
 <div align="center">
@@ -107,7 +108,7 @@ haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>W
   </a>
 </div>
 
----
+--- -->
 
 ###
 
