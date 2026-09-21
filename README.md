@@ -3,19 +3,8 @@
 
 ### 🌟 About Me
 
-haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>Web Developer</strong> dan <strong>Mobile Developer</strong>dengan vibe coding sambil slow living berternak lele  
+haloo saya <strong>nopalll</strong>, saya bercita-cita menjadi seorang <strong>Web Developer</strong> dan <strong>Fullstack Dev</strong>dengan vibe coding sambil slow living berternak lele  
 
----
-
-### 📊 GitHub Stats
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazeku-06&layout=compact&theme=radical&langs_count=20&cache_seconds=1800&v=1" width="400"  />
-</div>
-
----
 
 ### 🔧 Tech Stack
 
